@@ -1,4 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://os4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 30 L04 Set up Github Repo
+ZCZC W00 30 L01 Set up Github Repo
+ZCZC W00 60 L02 Set up Github Pages
+ZCZC W00  5 L03 Filling OS Google Form
