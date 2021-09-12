@@ -7,3 +7,13 @@ ZCZC W00  5 L00 Filling OS Google Form
 ZCZC W00 100 L02 Zoom Meeting Class OS
 ZCZC W00 40 L31 Learning about Operating Systems from youtube
 ZCZC W00 40 L02 Zoom Meeting Class OS
+ZCZC W01 20 L11 Attempting Assignment 1 (Virtual Box Preparation)
+ZCZC W01 30 L12 Exploring Assingment 2 (Importing and installing)
+ZCZC W01 120 L13 Assignment3 (Trying commands, vi editor, etc )
+ZCZC W01 40 L14 Assignment4 (Dress up virtual guest)
+ZCZC W01 30 L15 Assignment5 (SSH and Git Cloning)
+ZCZC W01 30 L32 Browsing essential links for OS & assignment 6
+ZCZC W01 50 L16 Assignment6 (Dress up github page)
+ZCZC W01 10 L17 Update Log.txt
+ZCZC W01 30 L18 Assignment 8 (More awk, bash, regex, sed)
+ZCZC W01 50 L19 Assingment 9 (Read ch 1, 2, and 18)
