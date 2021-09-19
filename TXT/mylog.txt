@@ -17,3 +17,9 @@ ZCZC W01 50 L16 Assignment6 (Dress up github page)
 ZCZC W01 10 L17 Update Log.txt
 ZCZC W01 30 L18 Assignment 8 (More awk, bash, regex, sed)
 ZCZC W01 50 L19 Assingment 9 (Read ch 1, 2, and 18)
+ZCZC W02 120 L00 Study Next Quiz
+ZCZC W02 150 L32 Youtube about linux etc
+ZCZC W02 90 L09 Trying of Week 02 Assignment
+ZCZC W02 25 L08 Study Last Quiz
+ZCZC W02 65 L00 Study Intro to Cybersecurity
+ZCZC W02 30 L09 Update Links, logs, and Do Review Peer Links
