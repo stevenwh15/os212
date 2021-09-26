@@ -23,3 +23,8 @@ ZCZC W02 90 L09 Trying of Week 02 Assignment
 ZCZC W02 25 L08 Study Last Quiz
 ZCZC W02 65 L00 Study Intro to Cybersecurity
 ZCZC W02 30 L09 Update Links, logs, and Do Review Peer Links
+ZCZC W03 80 L31 Installing virtualBox and re-setup
+ZCZC W03 90 L09 Week 03 Assignment
+ZCZC W03 40 L32 Learning Youtube
+ZCZC W03 30 L00 Browsing and learn content for Links
+ZCZC W03 120 L00 Quiz Preparation
