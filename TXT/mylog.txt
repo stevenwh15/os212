@@ -28,3 +28,10 @@ ZCZC W03 90 L09 Week 03 Assignment
 ZCZC W03 40 L32 Learning Youtube
 ZCZC W03 30 L00 Browsing and learn content for Links
 ZCZC W03 120 L00 Quiz Preparation
+ZCZC W04 100 L31 Installing virtualBox and re-setup again because of stupid mistake (*forgot export)
+ZCZC W04 40 L32 Browsing in youtube about newest link
+ZCZC W04 20 L00 Review other people link
+ZCZC W04 30 L00 Learning this week material
+ZCZC W04 60 L09 Week 04 Assignment
+ZCZC W04 120 L00 Quiz Preparation
+ZCZC W04 10 L17 Update Log.txt
