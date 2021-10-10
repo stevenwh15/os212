@@ -1,23 +1,28 @@
 ---
-permalink: /LINKS/
---- 
+permalink: /W05/
+---
 
-# Links
+# Top 10 List of Week 05
 
 V! Stands for Video
 
-1. [V! Linux Directories in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
-   Video ini menjelaskan mengenai fungsi dari directories yang ada di Linux. Dimulai dari penjelasan mengenai Filesystem Hierarchy Standard sampai ke dir /proc.
+1. [V! What is Virtual Memory ??](https://www.youtube.com/watch?v=qlH4-oHnBb8)
+    <br> Video ini menjelaskan mengenai virtual memory, dengan ada nya virtual memory maka kita bisa menggunakan "maps" untuk menghubungkan program address ke ram address yang dimana jauh lebih fleksibel.
+    <br> Penyampaian yang disampaikan dalam video ini juga sangat lengkap dan bagus dalam menjelaskannya sehingga mudah dimengerti dan tentunyaaa in interactive ways (as always) ^_^
 
-2. [File Permissions / Chmod Command](https://linuxize.com/post/chmod-command-in-linux/)
-   Jadi, website ini saya temukan ketika sedang ingin mencoba demos week2 permissions. Website ini menjelaskan dengan rinci mengenai file permission dalam linux.
+2. [V! How Does Virtual Memory Work ??](https://www.youtube.com/watch?v=59rEMnKWoS4)
+    <br> Video ini menjelaskan mengenai bagaimana cara virtual memory bekerja.The basic idea of VM is separate memory spaces.
+    <br> Hal yang membuat video ini menarik adalah karena penyampaiannya yang mudah dimengerti dan penyampaiannya disampaikan dengan cara yang interaktif.
 
-3. [Interractive Chmod](https://chmodcommand.com/)
-   So, buat kalian yang males baca panjang - panjang tentang file permissions or chmod, bisa langsung coba-coba aja di website ini. Actually saya tetap menyarankan baca dulu sih, karena dengan baca kalian jadi lebih bisa mengerti mengenai chmod.
+3. [How do we Copy a Local File to a Remote System ??](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+    <br> Ok soo, mungkin ada yang bertanya-tanya kenapa ini dimasukkan? karena website ini cukup membantu saya yang kebingungan "bagaimana cara memindahkan foto untuk tugas W05 dr local ke server?".
+    <br> So, di website ini lah jawabannya, yaitu dengan cara menuliskan argumen scp -P 6022 file.txt remote_username@localhost:/remote/directory.
+    <br> Maksud dari argumen diatas adalah mengcopy "file.txt" yang berada pada local dan mem-paste nya ke server kalian lewat port 6022.
 
-4. [Linux Virtual File System](https://likegeeks.com/linux-virtual-file-system/)
-   Website ini menjelaskan mengenai VFS. Salah satu contoh VFS adalah /proc , website ini lebih menitik beratkan kepada /proc file system dan bagaimana cara menulis ke dalam /proc. Untuk lebih lengkapnya silahkan baca website di atas ^_^.
+4. [Understanding linux "TOP" command](https://www.lifewire.com/linux-top-command-2201163)
+    <br> Artikel diatas menjelaskan mengenai Linux "top" command. Salah satu bahasannya adalah maksud dari top command output.
+    <br> Penjelasan artikel diatas cukup mudah dimengerti dan tampilan yang menarik sehingga tidak bosan saat membaca.
 
-5. [V! Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)
-   Again, animated video. Dalam video ini menjelaskan mengenai bagaimana komputer kita dapat menyimpan semuaaa data dalam komputer secara teratur dan mudah diakses oleh user tentunya.
-
+5. [Found Kernel Panic?! Don't Panic!](https://www.makeuseof.com/tag/dont-panic-everything-you-need-to-know-about-kernel-panics/)
+    <br> Yes jangan panik guyss, baca aja artikel diatas. Buat kalian yang udah nyelesain tugas W05 pasti harusnya ketemu Kernel Panic hoho.
+    <br> Jadi, salah satu alasan mengapa kernel panic adalah kurangnya space RAM. Semoga artikel ini membantu kalian agar tidak panik yaa ^_^
