@@ -1,31 +1,28 @@
 ---
-permalink: /LINKS/
---- 
+permalink: /W05/
+---
 
-# Links
-
-V! Stands for Video
+# Top 10 List of Week 05
 
 V! Stands for Video
 
-1. [Perbedaan Sistem Operasi 32 Bit dan 64 Bit??](https://tirto.id/apa-perbedaan-sistem-operasi-32-bit-dan-64-bit-enCJ)
-   <br> Mungkin pertanyaan dari judul diatas terdengar sepele. Tapi sadarkah kalian? terkadang ketika kita ingin mendownload sesuatu ada pilihan 32 bit, 64 bit hmm. Jadi maksudnya apa ya dari 32 bit dan 64 bit ini?
-   <br> Nahh dengan hadirnya website ini, kita dapat mengetahui lebih jelas mengenai perbedaan serta kelebihan dan kekurangan yang terdapat pada basis sistem 32 bit dan 64 bit.
+1. [V! What is Virtual Memory ??](https://www.youtube.com/watch?v=qlH4-oHnBb8)
+    <br> Video ini menjelaskan mengenai virtual memory, dengan ada nya virtual memory maka kita bisa menggunakan "maps" untuk menghubungkan program address ke ram address yang dimana jauh lebih fleksibel.
+    <br> Penyampaian yang disampaikan dalam video ini juga sangat lengkap dan bagus dalam menjelaskannya sehingga mudah dimengerti dan tentunyaaa in interactive ways (as always) ^_^
 
-2. [Is LE better than BE?](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)
-   <br> Website ini menjelaskan mengenai apasih endianness ituu? Dan dijelaskan mengenai perbandingan LE dan BE.
-   <br> Kesimpulan BE menyimpan big-end di byte pertama, sehingga terlihat lebih natural oleh orang-orang yang membaca dari kiri ke kanan.
-   <br> Sooo, kesimpulannya adalah, tidak ada yg lebih baik ^_^ karena subjektif.
+2. [V! How Does Virtual Memory Work ??](https://www.youtube.com/watch?v=59rEMnKWoS4)
+    <br> Video ini menjelaskan mengenai bagaimana cara virtual memory bekerja.The basic idea of VM is separate memory spaces.
+    <br> Hal yang membuat video ini menarik adalah karena penyampaiannya yang mudah dimengerti dan penyampaiannya disampaikan dengan cara yang interaktif.
 
-3. [V! Memory Allocation](https://youtu.be/udfbq4M2Kfc)
-   <br> Video di atas menjelaskan mengenai static maupun dynamic memory allocation. Selain itu, pada video ini juga dijelaskan struktur dari memory layout dari C programs.
-   <br> Video ini juga cukup singkat, hanya 4 menit.
+3. [How do we Copy a Local File to a Remote System ??](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+    <br> Ok soo, mungkin ada yang bertanya-tanya kenapa ini dimasukkan? karena website ini cukup membantu saya yang kebingungan "bagaimana cara memindahkan foto untuk tugas W05 dr local ke server?".
+    <br> So, di website ini lah jawabannya, yaitu dengan cara menuliskan argumen scp -P 6022 file.txt remote_username@localhost:/remote/directory.
+    <br> Maksud dari argumen diatas adalah mengcopy "file.txt" yang berada pada local dan mem-paste nya ke server kalian lewat port 6022.
 
-4. [Multistep Processing](https://www.geeksforgeeks.org/multistep-processing-of-a-user-program/)
-   <br> Website ini berisi penjelasan mengenai langkah-langkah dalam mengekseksui sebuah program.
-   <br> Dalam website ini dijelaskan setiap langkahnya dengan jelas dan disertai visualisasi sehingga memudahkan pemahaman.
+4. [Understanding linux "TOP" command](https://www.lifewire.com/linux-top-command-2201163)
+    <br> Artikel diatas menjelaskan mengenai Linux "top" command. Salah satu bahasannya adalah maksud dari top command output.
+    <br> Penjelasan artikel diatas cukup mudah dimengerti dan tampilan yang menarik sehingga tidak bosan saat membaca.
 
-5. [Pointer in C](https://www.guru99.com/c-pointers.html)
-   <br> Untuk kalian yang sudah mengerjakan demos, pasti udah gk asing banget dengan pointer. Namun, jika kalian masih bingung, website ini cukup membantu saya dalam memahami pointer di C.
-   <br> Hope this helpful for you guys ^_^. Website ini menarik karena terdapat penjelasan mengenai tipe-tipe pointer disertakan contohnya sehingga user dapat langsung memahami implementasi dari tiap tipenya.
-
+5. [Found Kernel Panic?! Don't Panic!](https://www.makeuseof.com/tag/dont-panic-everything-you-need-to-know-about-kernel-panics/)
+    <br> Yes jangan panik guyss, baca aja artikel diatas. Buat kalian yang udah nyelesain tugas W05 pasti harusnya ketemu Kernel Panic hoho.
+    <br> Jadi, salah satu alasan mengapa kernel panic adalah kurangnya space RAM. Semoga artikel ini membantu kalian agar tidak panik yaa ^_^
