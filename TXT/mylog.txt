@@ -35,8 +35,14 @@ ZCZC W04 30 L00 Learning this week material
 ZCZC W04 60 L09 Week 04 Assignment
 ZCZC W04 120 L00 Quiz Preparation
 ZCZC W04 10 L17 Update Log.txt
-ZCZC W05 100 L00 Learning week 6 material
+ZCZC W05 100 L00 Learning week 5 material
 ZCZC W05 120 L09 Finishing week 05 assignment
 ZCZC W05 60 L32 Browsing newest link for week 5 assignment
 ZCZC W05 40 L00 Quiz Preparation
 ZCZC W05 30 L00 Study last year quiz
+ZCZC W06 80 L00 Learning week 6 material
+ZCZC W06 100 L09 Finishing week 06 assignment
+ZCZC W06 60 L32 Browsing newest link for week 6 assignment
+ZCZC W06 45 L05 Study last year quiz
+ZCZC W06 80 L00 Browse other student link
+ZCZC W06 20 L09 update log, link, and rank

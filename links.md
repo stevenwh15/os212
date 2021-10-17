@@ -1,28 +1,22 @@
 ---
-permalink: /W05/
+permalink: /W06/
 ---
 
-# Top 10 List of Week 05
+# Top 5 List of Week 06
 
-V! Stands for Video
+   V! stands for video
 
-1. [V! What is Virtual Memory ??](https://www.youtube.com/watch?v=qlH4-oHnBb8)
-    <br> Video ini menjelaskan mengenai virtual memory, dengan ada nya virtual memory maka kita bisa menggunakan "maps" untuk menghubungkan program address ke ram address yang dimana jauh lebih fleksibel.
-    <br> Penyampaian yang disampaikan dalam video ini juga sangat lengkap dan bagus dalam menjelaskannya sehingga mudah dimengerti dan tentunyaaa in interactive ways (as always) ^_^
+1. [V! Difference Between Process and Thread](https://www.youtube.com/watch?v=O3EyzlZxx3g)
+   Video diatas menjelaskan mengenai perbedaan process dan thread dan apa maksud dari 2 kata tersebut. Alasan saya memilih video tersebut dikarenakan video diatas adalah animated video sehingga lebih mudah dalam penggambaran maknanya. Selain itu, contoh yang diberikan untuk memberikan gambaran menggunakan contoh pada kehidupan sehari-hari sehingga lebih terasa maknanya.
 
-2. [V! How Does Virtual Memory Work ??](https://www.youtube.com/watch?v=59rEMnKWoS4)
-    <br> Video ini menjelaskan mengenai bagaimana cara virtual memory bekerja.The basic idea of VM is separate memory spaces.
-    <br> Hal yang membuat video ini menarik adalah karena penyampaiannya yang mudah dimengerti dan penyampaiannya disampaikan dengan cara yang interaktif.
+2. [Concurrency](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
+   Setelah penjelasan mengenai process dan thread, mari kita masuk ke dalam penjelasan mengenai concurrency. Concurrency adalah eksekusi lebih dari satu instruksi dalam satu waktu bersamaan. Sesuai dengan title nomer 2 diatas, maka website tersebut menjelaskan mengenai concurrency serta kelebihan dan kekurangan concurrency. Alasan saya memilih website tersebut dikarenakan cukup membantu saya dalam memahami concurrency serta terdapat kelebihan dan kekurangan dari concurrency itu sendiri.
 
-3. [How do we Copy a Local File to a Remote System ??](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
-    <br> Ok soo, mungkin ada yang bertanya-tanya kenapa ini dimasukkan? karena website ini cukup membantu saya yang kebingungan "bagaimana cara memindahkan foto untuk tugas W05 dr local ke server?".
-    <br> So, di website ini lah jawabannya, yaitu dengan cara menuliskan argumen scp -P 6022 file.txt remote_username@localhost:/remote/directory.
-    <br> Maksud dari argumen diatas adalah mengcopy "file.txt" yang berada pada local dan mem-paste nya ke server kalian lewat port 6022.
+3. [What is Multicore Programming?](https://www.tutorialspoint.com/what-is-multicore-programming)
+   Website diatas menjelaskan mengenai apa itu multicore. Multicore adalah single processor yang memiliki beberapa eksekusi dalam 1 chip. Alasan saya memilih website diatas adalah karena penjelasan yang cukup singkat dan terdapat kelebihan dan kekurangan multicore.
 
-4. [Understanding linux "TOP" command](https://www.lifewire.com/linux-top-command-2201163)
-    <br> Artikel diatas menjelaskan mengenai Linux "top" command. Salah satu bahasannya adalah maksud dari top command output.
-    <br> Penjelasan artikel diatas cukup mudah dimengerti dan tampilan yang menarik sehingga tidak bosan saat membaca.
+4. [Fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+   Pada website diatas dijelaskan mengenai fork dan latihan-latihan soal mengenai fork. Alasan saya memilih website diatas adalah terdapat beberapa latihan sehingga menyempurnakan pengertian mengenai fork.
 
-5. [Found Kernel Panic?! Don't Panic!](https://www.makeuseof.com/tag/dont-panic-everything-you-need-to-know-about-kernel-panics/)
-    <br> Yes jangan panik guyss, baca aja artikel diatas. Buat kalian yang udah nyelesain tugas W05 pasti harusnya ketemu Kernel Panic hoho.
-    <br> Jadi, salah satu alasan mengapa kernel panic adalah kurangnya space RAM. Semoga artikel ini membantu kalian agar tidak panik yaa ^_^
+5. [User vs Kernel](https://alldifferences.net/difference-between-user-level-and-kernel-level-thread/)
+   Pada website diatas dijelaskan apa itu user level thread dan kernel level thread serta kelebih dan dan kekurangannya masing-masing. Website ini menarik karena penjelasan perbedaan mengenai user dan kernel disajikan dalam bentuk tabel.
