@@ -61,3 +61,10 @@ ZCZC W08 20 L12 Rate top 3 links
 ZCZC W08 60 L01 Scele quiz
 ZCZC W08 90 L13 Search top 5 links
 ZCZC W08 30 L11 Study OS week 8
+ZCZC W09 75 L19 Finishing Linux from scratch chapter 5
+ZCZC W09 90 L19 Finishing Linux from scratch chapter 6
+ZCZC W09 55 L19 Finishing Linux from scratch chapter 7
+ZCZC W09 50 L06 Searching for this week link
+ZCZC W09 30 L19 Study about other people link for my rank
+ZCZC W09 100 L05 Study about this week quiz
+ZCZC W09 60 L23 Study about linux etc for assignment
