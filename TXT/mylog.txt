@@ -68,3 +68,9 @@ ZCZC W09 50 L06 Searching for this week link
 ZCZC W09 30 L19 Study about other people link for my rank
 ZCZC W09 100 L05 Study about this week quiz
 ZCZC W09 60 L23 Study about linux etc for assignment
+ZCZC W10 75 L23 study about week 10 assignment
+ZCZC W10 700 L20 Finishing linux from scratch chapter 8 
+ZCZC W10 20 L20 Browse for my rank
+ZCZC W10 10 L20 Browse for my link
+ZCZC W10 30 L20 Finishing other task for assignment week 10
+ZCZC W10 90 L05 Study about this week quiz
